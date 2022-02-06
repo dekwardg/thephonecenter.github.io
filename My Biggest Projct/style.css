@@ -1,0 +1,23 @@
+.my-button {
+    width: 150px;
+    height: 50px;
+    padding: 12px;
+    background-color: aqua;
+    border-color:pink;
+}
+
+.sam  {
+     width: 150px;
+     height: 50px;
+     padding: 12px;
+     background-color: gray;
+}
+
+.ip {
+    width: 150px;
+    height: 50px;
+    padding: 12px;
+    background-color: brown;
+    border-color: white;
+}
+
